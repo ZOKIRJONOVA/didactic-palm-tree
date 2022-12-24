@@ -1,0 +1,249 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+.wrapper {
+  width: 100%;
+  text-align: center;
+  margin-left: 150px;
+}
+
+.wrapper-1 {
+  width: 1170px;
+  height: 200px;
+  border: 1.5px solid #ffffff;
+  background: #ffffff;
+  box-shadow: 0px 73px 80px rgba(0, 0, 0, 0.06);
+  border-radius: 30px;
+  margin-bottom: 200px;
+}
+.p-5 {
+  font-family: "Schoolbell";
+  margin-top: 35px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 22px;
+  /* identical to box height, or 93% */
+  text-decoration-line: underline;
+  color: #265a6a;
+  text-align: center;
+  margin-bottom: 79px;
+}
+.card-1 {
+  display: flex;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 22px;
+  /* or 47% */
+  color: #08546c;
+  margin: right 240px;
+}
+.h3-1 {
+  display: flex;
+  margin-right: 240px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 22px;
+  /* or 47% */
+  color: #08546c;
+  margin-right: 240px;
+}
+.h3-2 {
+  display: flex;
+  margin-right: 240px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 22px;
+  /* or 47% */
+  color: #08546c;
+  margin-right: 240px;
+}
+
+.h3-3 {
+  display: flex;
+  margin-right: 240px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 22px;
+  /* or 47% */
+  color: #08546c;
+  margin: right 240px;
+}
+.h3-4 {
+  display: flex;
+  margin-right: 240px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 22px;
+  /* or 47% */
+  color: #08546c;
+  margin: right 240px;
+}
+.p-1 {
+  text-align: center;
+  font-family: "Schoolbell";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 22px;
+  /* identical to box height, or 93% */
+  text-decoration-line: underline;
+  color: #265a6a;
+  margin-bottom: 30px;
+}
+.p-2 {
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 60px;
+  /* or 133% */
+  color: #08546c;
+  margin-bottom: 70px;
+}
+.card {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+.cards-4 {
+  width: 273px;
+  border: 1px solid;
+  background: #ffffff;
+  box-shadow: 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198);
+}
+.cards-1 {
+  margin-right: 36px;
+  width: 273px;
+  border: 1px solid;
+  background: #ffffff;
+  box-shadow: 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198);
+}
+.cards-2 {
+  margin-right: 36px;
+  width: 273px;
+  border: 1px solid;
+  background: #ffffff;
+  box-shadow: 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198);
+}
+.cards-3 {
+  margin-right: 36px;
+  width: 273px;
+  border: 1px solid;
+  background: #ffffff;
+  box-shadow: 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198);
+}
+img {
+  margin: 30px 193px 20px 30px;
+}
+h3 {
+  margin: 0 88px 10px 30px;
+}
+.p-4 {
+  margin: 0 28px 34px 30px;
+}
+h2 {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 10px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 56px;
+  /* identical to box height, or 125% */
+  color: #08546c;
+}
+.p-3 {
+  text-align: center;
+  margin-bottom: 60px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  /* or 160% */
+  color: #757575;
+}
+.img-1 {
+  display: flex;
+  height: 515px;
+  width: 385.99px;
+  margin-bottom: 40px;
+}
+.wrapper-item-1 {
+  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+}
+.h {
+  display: flex;
+  justify-content: flex-start;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 29px;
+  /* identical to box height, or 96% */
+  color: #08546c;
+  margin-bottom: 20px;
+}
+.p-0 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 160% */
+  color: #757575;
+  margin-bottom: 20px;
+}
+.h-tag {
+  display: flex;
+  justify-content: flex-end;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 29px;
+  /* identical to box height, or 96% */
+  color: #08546c;
+  margin-bottom: 20px;
+}
+.p-tag {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 160% */
+  color: #757575;
+  margin-bottom: 20px;
+}
+.cards-0 {
+  display: flex;
+  justify-content: space-between;
+}
+h5 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+  /* identical to box height, or 142% */
+  color: #08546c;
+}
